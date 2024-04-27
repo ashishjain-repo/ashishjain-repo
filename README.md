@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishjain-repo
-- 👀 I’m interested in PHP, Python, and C#.
+- 👀 I’m interested in PHP, Python, C#, Rust, and Java.
 - 🌱 I’m currently learning ASP.Net and Flask.
 - 💞️ I’m looking to collaborate on Web Application
 - 📫 Email me to get in touch @ashishjain99@yahoo.com
