@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js, React.js and Flask.
 - 💞️ I’m looking to collaborate on Web Application
 - 📫 Email me to get in touch @ashkjain0@gmail.com
-- #️⃣ Another Account github.com/ashkjain
+- #️⃣ Another Account [ashkjain](https://github.com/ashkjain)
 
 <!---
 ashishjain-repo/ashishjain-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
