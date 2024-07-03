@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python, Javascript, Java, and SQL.
 - 🌱 I’m currently learning Node.js, React.js and Flask.
 - 💞️ I’m looking to collaborate on Web Application
-- 📫 Email me to get in touch @ashishjain99@yahoo.com
+- 📫 Email me to get in touch @ashkjain0@gmail.com
+- #️⃣ Another Account github.com/ashkjain
 
 <!---
 ashishjain-repo/ashishjain-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
