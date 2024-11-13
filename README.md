@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ashishjain-repo
-- 👀 I’m interested in Python, Javascript, Java, and SQL.
-- 🌱 I’m currently learning Node.js, React.js and Flask.
-- 💞️ I’m looking to collaborate on Web Application
-- 📫 Email me to get in touch @ashkjain0@gmail.com
+- 👀 I’m interested in Python, Javascript, C#, and SQL.
 - #️⃣ Another Account [ashkjain](https://github.com/ashkjain)
 - 👨‍💼 Linkedin Profile [Ashish Jain](https://www.linkedin.com/in/ashishjain1008/)
 
