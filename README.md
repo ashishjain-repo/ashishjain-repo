@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @ashishjain-repo
-- 👀 I’m interested in Python, Javascript, C#, and SQL.
-- #️⃣ Another Account [ashkjain](https://github.com/ashkjain)
+- 👋 Hi, I’m Ashish Jain
+- 💻 Proficient in JavaScript, C#, Python, and SQL (MySQL, MSSQL)
+- 🎨 Skilled with TailwindCSS and Vue.js
+- 🌱 Currently exploring ASP.NET Core, Django, and Express.js
+- 🔍 Passionate about building efficient, scalable, and user-friendly applications
+- 📚 Lifelong learner with a love for full-stack development
 - 👨‍💼 Linkedin Profile [Ashish Jain](https://www.linkedin.com/in/ashishjain1008/)
 
 <!---
